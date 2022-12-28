@@ -1,6 +1,6 @@
 ## Hi there. I'm Yunus Emre...👋
 
-- 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | Redux | NextJS)
+- 🔭 I’m currently working on frontend and mobile app development (HTML5 | CSS | JAVASCRİPT | NextJS |React| Redux |)
 
 - 💬 Ask me about anything that you want to learn
 
