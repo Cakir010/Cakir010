@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
 
-## 👷🏻‍♀️👋🏻 Hi there, I'm Sezer
+## 👷🏻‍♀️👋🏻 Hi there, I'm Yunus Emre
 
 <font color="pink"> 🐱‍🏍 I'm Automotive Engineer but I find myself in software. </font>
 </br>
@@ -97,6 +97,7 @@
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
+[Vanilla JS Todo App](https://szrokmn.github.io/Todo-App/) <h3>[Repo](https://github.com/szrokmn/Todo-App)</h3> | Vanilla JS, PureCSS |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif)
 [Vanilla JS Todo App](https://szrokmn.github.io/Todo-App/) <h3>[Repo](https://github.com/szrokmn/Todo-App)</h3> | Vanilla JS, PureCSS |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif)
 
 
