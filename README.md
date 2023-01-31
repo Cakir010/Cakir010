@@ -2,11 +2,11 @@
 
 ## 👷🏻‍♀️👋🏻 Hi there, I'm Yunus Emre
 
-<font color="pink"> 🐱‍🏍 I'm Automotive Engineer but I find myself in software. </font>
+<font color="pink"> 🐱‍🏍 I'm Frontend developer </font>
 </br>
-<font color="pink">🎆 Exploring routes to new visions and be a part of the new visions. </font>
+<font color="pink">🎆 Reading is my greatest pleasure in life. </font>
 </br>
-<font color="pink"> 🧐 A new age enthusiast. </font>
+<font color="pink"> 🧐  </font>
 </br>
 <font color="pink">☕ Coffee is how I keep up with code</font>
 
