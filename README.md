@@ -98,8 +98,8 @@
 Project Demo       |Libraries and Technologies I use  |Project Preview   
 :-------------------------|---------------------|------------------
 [Vanilla JS Todo App](https://szrokmn.github.io/Todo-App/) <h3>[Repo](https://github.com/szrokmn/Todo-App)</h3> | Vanilla JS, PureCSS |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif)
-[React - Tailwind](https://food-app-react-project.netlify.app/) <h3>[Repo](https://food-app-react-project.netlify.app/)</h3> | React - Tailwind |<img src="https://media.giphy.com/media/uXA4mdC9MTbkMc2iL4/giphy.gif" align="right" width="720">
-<img src="https://www.canva.com/design/DAFdZubG5sk/beQjPVROrrhOXk0Etij3Ng" align="right" width="520">
+[React - Tailwind](https://food-app-react-project.netlify.app/) <h3>[Repo](https://food-app-react-project.netlify.app/)</h3> | React - Tailwind |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjY5NjVjMGM4NTRhNzg0MTk2YjkwMDg0MDAwYjNjZmVkODQ4ZjNlNiZjdD1n/ZeMPZf19iyAVkHyB3h/giphy.gif" align="right" width="720">
+
 
 
 
