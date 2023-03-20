@@ -13,8 +13,8 @@
 #### 📬 Connect with me:
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunus-emre-%C3%A7ak%C4%B1r/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:ynsckr01@gmail.com)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@ynsckr01)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:szrokmn34@gmail.com)
+[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://https://medium.com/@szrokmn34)
 
 </br>
 </br>
@@ -104,6 +104,8 @@ Project Demo       |Libraries and Technologies I use  |Project Preview
 [HTML-CSS-JavaScript](https://cakir010.github.io/Weather-App-Project/) <h3>[Repo](https://cakir010.github.io/Weather-App-Project/)</h3> | JS - DOM |<img src="https://media.giphy.com/media/wULNlrSgUgMWXR72YB/giphy.gif" align="right" width="500">
 [HTML-CSS-JavaScript](https://cakir010.github.io/Todo-List-Project/) <h3>[Repo](https://cakir010.github.io/Todo-List-Project/)</h3> | JS - Array İteration |<img src="https://media.giphy.com/media/DccZ4GEmpqkTDKzrM1/giphy.gif" align="right" width="500">
 [HTML-CSS-JavaScript](https://cakir010.github.io/Random-generator/) <h3>[Repo](https://cakir010.github.io/Random-generator/)</h3> | JS - Array İteration |<img src="https://media.giphy.com/media/bPj8fVRfv8ZyKLikGn/giphy.gif" align="right" width="500">
+[HTML-CSS-JavaScript](https://cakir010.github.io/Random-generator/) <h3>[Repo](https://cakir010.github.io/Random-generator/)</h3> | JS - Array İteration |<img src="https://media.giphy.com/media/Ty4KM5LDfwfksLn3MK/giphy.gif" align="right" width="500">
+
 
 
 
