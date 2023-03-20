@@ -104,7 +104,7 @@ Project Demo       |Libraries and Technologies I use  |Project Preview
 [HTML-CSS-JavaScript](https://cakir010.github.io/Weather-App-Project/) <h3>[Repo](https://cakir010.github.io/Weather-App-Project/)</h3> | JS - DOM |<img src="https://media.giphy.com/media/wULNlrSgUgMWXR72YB/giphy.gif" align="right" width="500">
 [HTML-CSS-JavaScript](https://cakir010.github.io/Todo-List-Project/) <h3>[Repo](https://cakir010.github.io/Todo-List-Project/)</h3> | JS - Array İteration |<img src="https://media.giphy.com/media/DccZ4GEmpqkTDKzrM1/giphy.gif" align="right" width="500">
 [HTML-CSS-JavaScript](https://cakir010.github.io/Random-generator/) <h3>[Repo](https://cakir010.github.io/Random-generator/)</h3> | JS - Array İteration |<img src="https://media.giphy.com/media/bPj8fVRfv8ZyKLikGn/giphy.gif" align="right" width="500">
-[HTML-CSS-JavaScript](https://cakir010.github.io/Random-generator/) <h3>[Repo](https://cakir010.github.io/Random-generator/)</h3> | JS - Array İteration |<img src="https://media.giphy.com/media/Ty4KM5LDfwfksLn3MK/giphy.gif" align="right" width="500">
+[React - SASS ](https://cakir010.github.io/Random-generator/) <h3>[Repo](https://cakir010.github.io/Random-generator/)</h3> | React - Sass  |<img src="https://media.giphy.com/media/Ty4KM5LDfwfksLn3MK/giphy.gif" align="right" width="500">
 
 
 
