@@ -2,7 +2,9 @@
 
 ## 👷🏻‍♀️👋🏻 Hi there, I'm Yunus Emre
 
-<font color="pink"> 🐱‍🏍 I'm Full Stack Developer </font>
+<font color="pink"> 🐱‍🏍 I'm Front End Developer </font>
+</br>
+<font color="pink">  I love to write code </font>
 </br>
 <font color="pink">🎆 Reading is my greatest pleasure in life. </font>
 </br>
